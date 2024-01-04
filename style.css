@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+
+.island_bg {
+background: url(./island.jpg);
+height: 100vh;
+background-position: center;
+background-size: cover;
+text-align: center;
+padding-top: 300px;
+font-size: 3rem;
+color: #fff;
+font-weight: 700;
+}
+
+button {
+  outline: 0;
+  border: 0;
+  border-radius: 24px;
+  width: 80px;
+  height: 40px;
+  cursor: pointer;
+}
